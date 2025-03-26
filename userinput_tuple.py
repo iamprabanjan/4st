@@ -1,0 +1,6 @@
+name=input("enter your name:\n")
+age=input("Enter your age:\n")
+gender=input("Enter your gender:\n")
+japlevel=input("Enter your japlevel:\n")
+mytuple=(name,age.gender,japlevel)
+print(mytuple)
